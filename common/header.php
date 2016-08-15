@@ -29,11 +29,9 @@
 </head>
 
 <?php echo body_tag(array('id' => @$bodyid, 'class' => @$bodyclass)); ?>
-    <a href="#content" id="skipnav"><?php echo __('Skip to main content'); ?></a>
+    <a href="#main" id="skipnav" class="audible"><?php echo __('Skip to main content'); ?></a>
     <?php fire_plugin_hook('public_body', array('view'=>$this)); ?>
-    <div id="wrap">
-
-        <header role="banner">
+        <header role="banner" id="banner">
 
             <?php fire_plugin_hook('public_header', array('view'=>$this)); ?>
 
@@ -47,11 +45,10 @@
 
             <nav id="top-nav" role="navigation">
                 <?php echo public_nav_main(); ?>
-                
             </nav>
 
         </header>
 
-        <article id="content" role="main">
+        <main id="main" role="main">
 
             <?php fire_plugin_hook('public_content_top', array('view'=>$this)); ?>
