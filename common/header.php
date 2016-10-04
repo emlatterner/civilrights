@@ -41,7 +41,7 @@
                 <?php echo search_form(); ?>
             </div><!-- end search -->
 
-            <h1>The <span><a>Movement</a></span> of the Movement</h1>
+              <h1><?php echo link_to_home_page(); ?></h1>
 
             <nav id="top-nav" role="navigation">
                 <?php echo public_nav_main(); ?>
