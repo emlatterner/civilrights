@@ -7,7 +7,7 @@ html {
 
 
 /**********************HEADER STYLING**********************/
-.banner{
+#banner{
   position:fixed;
     background-color: #737373;
   height: 7em;
@@ -180,8 +180,6 @@ li a {
   display: inline-block;
   text-align: left;
 }
-
-
 
 .title h1 {
   color: #1a1a1a;
