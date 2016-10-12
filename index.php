@@ -14,7 +14,7 @@
      <li><a href="#" class="btn">Voting Rights</a></li>
      </ul></p>-->
 <div class="project">
-    <p>This digital civil rights archive grows out of the &quot;50 over 5&quot; bicentennial celebrations of each year of the Civil Rights movement. Though the project proceeds chronologically from 1963 to 1965, we are interested how the archives can create movement between the main dates, figures, and accomplishments of the movement for civil rights. Comprised of a graduate student manager and undergraduate research assistants, the research team works closely with the University of Virginia's <a href="http://small.library.virginia.edu/" target="_blank">Special Collections Library</a> to develop this archive. As such, many of the stories seek to illuminate how Virginia-specific developments inform, complicate, or uphold national narratives.
+    <p>This digital civil rights archive grows out of the &quot;50 over 5&quot; bicentennial celebrations of each year of the Civil Rights movement. Though the project proceeds chronologically from 1963 to 1965, we are interested how the archives can create movement between the main dates, figures, and accomplishments of the movement for civil rights. Comprised of a graduate student manager and undergraduate research assistants, the research team works closely with the University of Virginia's<a href="http://small.library.virginia.edu/" target="_blank" id="intext">Special Collections Library</a>to develop this archive. As such, many of the stories seek to illuminate how Virginia-specific developments inform, complicate, or uphold national narratives.
 </p>
      <br />
  </div>
